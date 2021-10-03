@@ -28,7 +28,7 @@ and can be used as a template for further explorations.
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/Google-Developer-Student-Club-RAIT/Room_Database_Mobile_Example
+https://github.com/Google-Developer-Student-Club-RAIT/Room_Database_Mobile_Example.git 
 ```
 
 **Step 2:**
@@ -63,7 +63,7 @@ or if you get any error in gradle then execute following option:
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone https://github.com/Google-Developer-Student-Club-RAIT/Room_Database_Mobile_Example
+git clone https://github.com/Google-Developer-Student-Club-RAIT/Room_Database_Mobile_Example.git 
 ```
 
 **3.** Navigate to the project directory :file_folder: .
